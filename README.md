@@ -25,4 +25,5 @@ Assim, é possível comparar a visualização dos dados em objeto, string JSON e
 Agradeço, Professor, pelas orientações e pelo incentivo durante o aprendizado. Isso tem sido muito útil para meu desenvolvimento. Estou à disposição para qualquer esclarecimento.
 
 Atenciosamente,
+
 Fabíula de Araujo Brandão. 
