@@ -12,7 +12,7 @@ node ./Objetos/usaPFDAO.mjs
 
 node ./Objetos/usaPJDAO.mjs
 
-===================================================================================
+====================================================================================
 
 O código serve para exibir os dados do aluno de diferentes formas no console:
 
